@@ -1,0 +1,5 @@
+### 6. Fork Operations
+- Fork your own repository on GitHub to a new repository under your account.
+- Clone the forked repository locally.
+- Make a change in the forked repository (e.g., add `forked.txt`) and push to the forked remote.
+- Create a PR from the forked repository to the original repository’s `main` branch.
